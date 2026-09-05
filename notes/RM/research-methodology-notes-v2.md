@@ -465,7 +465,7 @@
 *   **Interval Estimate**: A range of values within confidence limits [311].
 
 ### Estimating the Population Mean ($\mu$)
-*   Calculated as $ar{X} \pm z \cdot S.E.$ using finite population multipliers if needed [305, 336].
+*   Calculated as $bar{X} \pm z \cdot S.E.$ using finite population multipliers if needed [305, 336].
 
 ### Estimating Population Proportion
 *   Calculated as $p \pm z \cdot \sqrt{pq/n}$ for attribute frequencies [172].
@@ -490,14 +490,14 @@
 
 ### Basic Concepts Concerning Testing of Hypotheses
 *   **Null ($H_0$) vs. Alternative ($H_a$)**: Hypothesis of no difference vs. the operational alternative to prove [321, 323].
-*   **Level of Significance ($lpha$)**: Maximum probability of Type I error (rejecting true $H_0$) chosen in advance [324, 325].
+*   **Level of Significance ($\alpha$)**: Maximum probability of Type I error (rejecting true $H_0$) chosen in advance [324, 325].
 *   **Type I vs. Type II Errors**:
     *   *Type I ($\alpha$)*: Rejecting true $H_0$ [327].
     *   *Type II ($\beta$)*: Accepting false $H_0$ [327].
 *   **Two-tailed vs. One-tailed Tests**: Rejection region on both tails ($H_a: \mu \neq \mu_0$) vs. single tail ($H_a: \mu > \mu_0$) [328].
 
 ### Procedure for Hypothesis Testing
-*   **Sequence**: Formulate $H_0/H_a ightarrow$ specify $lpha ightarrow$ select sampling distribution $ightarrow$ calculate test statistic $ightarrow$ find probability $ightarrow$ accept or reject $H_0$ [331].
+*   **Sequence**: Formulate $H_0/H_a \rightarrow$ specify $\alpha ightarrow$ select sampling distribution $ightarrow$ calculate test statistic $ightarrow$ find probability $ightarrow$ accept or reject $H_0$ [331].
 
 ### Important Parametric Tests
 *   **z-test**: $n > 30$ or known population variance [333, 334].
